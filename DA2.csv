@@ -1,0 +1,13 @@
+A,B,C,D,Output
+Some ,High ,FALSE, French ,Yes
+Full,Low,FALSE,Thai,No
+Some ,Low,FALSE,Burger,Yes
+Full,Low,FALSE,Thai,Yes
+Full,High ,FALSE,French,No
+Some ,Normal,TRUE,Italian,Yes
+None,Low,TRUE,Burger,No
+Some ,Normal,TRUE,Thai,Yes
+Full,Low,TRUE,Burger,No
+Full,High ,FALSE,Italian,No
+None,Low,FALSE,Thai,Yes
+Full,Low,FALSE,Burger,Yes
